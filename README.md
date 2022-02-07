@@ -1,6 +1,5 @@
 ### Hi there 👋 
-##my name is Saleeta Qadir
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+## My name is Saleeta Qadir
 
 I take inputs such as business specs, papers, ideas, whims, and drugs 
  and generate outputs such as code, articles, and technical specifications.
