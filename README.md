@@ -1,12 +1,10 @@
-### Hi there 👋 
-## My name is Saleeta Qadir
+## Hi there 👋 
+### My name is Saleeta Qadir
 
 I take inputs such as business specs, papers, ideas, whims, and drugs 
  and generate outputs such as code, articles, and technical specifications.
 
 Skills: PYTHON / JAVASCRIPT / GO 
-
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saleeta)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saleeta-qadir/)  
 
